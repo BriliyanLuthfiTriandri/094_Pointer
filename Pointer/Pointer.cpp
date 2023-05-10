@@ -8,3 +8,5 @@ public:
 };
 
 
+void mahasiswa::showNim() { //implementasi method diluar class
+}
